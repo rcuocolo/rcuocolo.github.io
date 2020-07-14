@@ -10,17 +10,17 @@ Medical image analysis using machine learning and radiomics. Cancer imaging, wit
 
 ## Select Publications
 
-1. Cuocolo R, Cipullo MB, Stanzione A, et al (2020) Machine learning for the identification of clinically significant prostate cancer on MRI: a meta-analysis. Eur Radiol. https://doi.org/10.1007/s00330-020-07027-w
+1. Cuocolo R, Cipullo MB, Stanzione A, et al (2020). Machine learning for the identification of clinically significant prostate cancer on MRI: a meta-analysis. Eur Radiol. https://doi.org/10.1007/s00330-020-07027-w
 
-2. Stanzione A, Gambardella M, Cuocolo R, et al (2020) Prostate MRI radiomics: A systematic review and radiomic quality score assessment. Eur J Radiol 129:109095. https://doi.org/10.1016/j.ejrad.2020.109095
+2. Stanzione A, Gambardella M, Cuocolo R, et al (2020). Prostate MRI radiomics: A systematic review and radiomic quality score assessment. Eur J Radiol 129:109095. https://doi.org/10.1016/j.ejrad.2020.109095
 
-3. Cuocolo R, Caruso M, Perillo T, et al (2020) Machine Learning in Oncology: A Clinical Appraisal. Cancer Lett. https://doi.org/10.1016/j.canlet.2020.03.032
+3. Cuocolo R, Caruso M, Perillo T, et al (2020). Machine Learning in Oncology: A Clinical Appraisal. Cancer Lett. https://doi.org/10.1016/j.canlet.2020.03.032
 
-4. Cuocolo R, Ponsiglione A, Dell’Aversana S, et al (2020) The cardiac conundrum: a systematic review and bibliometric analysis of authorship in cardiac magnetic resonance imaging studies. Insights Imaging 11:42. https://doi.org/10.1186/s13244-020-00850-1
+4. Cuocolo R, Ponsiglione A, Dell’Aversana S, et al (2020). The cardiac conundrum: a systematic review and bibliometric analysis of authorship in cardiac magnetic resonance imaging studies. Insights Imaging 11:42. https://doi.org/10.1186/s13244-020-00850-1
 
-5. Cuocolo R, Stanzione A, Ponsiglione A, et al (2019) Prostate MRI technical parameters standardization: A systematic review on adherence to PI-RADSv2 acquisition protocol. Eur J Radiol 120:108662. https://doi.org/10.1016/j.ejrad.2019.108662
+5. Cuocolo R, Stanzione A, Ponsiglione A, et al (2019). Prostate MRI technical parameters standardization: A systematic review on adherence to PI-RADSv2 acquisition protocol. Eur J Radiol 120:108662. https://doi.org/10.1016/j.ejrad.2019.108662
 
-6. Imbriaco M, Cuocolo R (2018) Does Texture Analysis of MR Images of Breast Tumors Help Predict Response to Treatment? Radiology 286:421–423. https://doi.org/10.1148/radiol.2017172454
+6. Imbriaco M, Cuocolo R (2018). Does Texture Analysis of MR Images of Breast Tumors Help Predict Response to Treatment? Radiology 286:421–423. https://doi.org/10.1148/radiol.2017172454
 
 ### SoMe and other profile links
 

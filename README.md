@@ -23,17 +23,10 @@ Medical image analysis using machine learning and radiomics. Cancer imaging, wit
 ### SoMe and other profile links
 
 [Twitter](https://twitter.com/renatocuocolo)
-
 [ResearchGate](https://www.researchgate.net/profile/Renato_Cuocolo)
-
 [LinkedIn](https://www.linkedin.com/in/renato-cuocolo/)
-
 [ORCiD](https://orcid.org/0000-0002-1452-1574)
-
 [Mendeley](https://www.mendeley.com/profiles/renato-cuocolo/)
-
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55253274100)
-
 [Publons](https://publons.com/researcher/1435108/renato-cuocolo/)
-
 [Loop](https://loop.frontiersin.org/people/704033/overview)

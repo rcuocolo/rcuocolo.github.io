@@ -15,11 +15,11 @@ Renato Cuocolo obtained his medical degree from the University of Campania “Lu
 
 ### SoMe and other profile links
 
-[Link](https://orcid.org/0000-0002-1452-1574) and ![Image](https://cdn.icon-icons.com/icons2/2108/PNG/512/orcid_icon_130865.png)
-[Link](https://twitter.com/renatocuocolo) and ![Image](https://cdn.icon-icons.com/icons2/729/PNG/512/twitter_icon-icons.com_62751.png)
-[Link](https://www.mendeley.com/profiles/renato-cuocolo/) and ![Image](https://cdn.icon-icons.com/icons2/2389/PNG/512/mendeley_logo_icon_145068.png)
-[Link](https://www.scopus.com/authid/detail.uri?authorId=55253274100) and ![Image](src)
-[Link](https://www.researchgate.net/profile/Renato_Cuocolo) and ![Image](https://cdn.icon-icons.com/icons2/2108/PNG/512/researchgate_icon_130843.png)
-[Link](https://www.linkedin.com/in/renato-cuocolo/) and ![Image](https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png)
-[Link](https://loop.frontiersin.org/people/704033/overview) and ![Image](src)
-[Link](https://publons.com/researcher/1435108/renato-cuocolo/) and ![Image](src)
+[Twitter](https://twitter.com/renatocuocolo)
+[ResearchGate](https://www.researchgate.net/profile/Renato_Cuocolo)
+[LinkedIn](https://www.linkedin.com/in/renato-cuocolo/)
+[ORCiD](https://orcid.org/0000-0002-1452-1574)
+[Mendeley](https://www.mendeley.com/profiles/renato-cuocolo/)
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=55253274100)
+[Publons](https://publons.com/researcher/1435108/renato-cuocolo/)
+[Loop](https://loop.frontiersin.org/people/704033/overview)

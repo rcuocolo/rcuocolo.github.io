@@ -1,4 +1,3 @@
-# Renato Cuocolo
 MD, PhD, Research fellow at the Department of Clinical Medicine and Surgery of the University of Naples "Federico II".
 
 ## Short Bio

@@ -20,6 +20,8 @@ Medical image analysis using machine learning and radiomics. Cancer imaging, wit
 
 5. Cuocolo R, Stanzione A, Ponsiglione A, et al (2019) Prostate MRI technical parameters standardization: A systematic review on adherence to PI-RADSv2 acquisition protocol. Eur J Radiol 120:108662. https://doi.org/10.1016/j.ejrad.2019.108662
 
+6. Imbriaco M, Cuocolo R (2018) Does Texture Analysis of MR Images of Breast Tumors Help Predict Response to Treatment? Radiology 286:421–423. https://doi.org/10.1148/radiol.2017172454
+
 ### SoMe and other profile links
 
 - [Twitter](https://twitter.com/renatocuocolo)

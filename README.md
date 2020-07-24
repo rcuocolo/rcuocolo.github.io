@@ -8,6 +8,10 @@ Renato Cuocolo obtained his medical degree from the University of Campania “Lu
 
 Medical image analysis using machine learning and radiomics. Cancer imaging, with a focus on prostate MRI and breast cancer. Systematic reviews and meta-analyses.
 
+## Repositories
+
+- PROSTATEx lesion masks: https://github.com/rcuocolo/PROSTATEx_masks  Results of a quality check on the PROSTATEx public prostate cancer MRI database. The repository contains high-quality lesion masks annotated by expert radiologists in consensus. Its aim is to improve the quality of the dataset and of research conducted on it and provide a template for similar efforts in other public medical imaging datasets.
+
 ## Select Publications
 
 1. Cuocolo R, Cipullo MB, Stanzione A, et al (2020). Machine learning for the identification of clinically significant prostate cancer on MRI: a meta-analysis. Eur Radiol. https://doi.org/10.1007/s00330-020-07027-w

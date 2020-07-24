@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Renato Cuocolo, MD, PhD
 subtitle: Short bio, research interests/highlights, github repositories, social network and online profiles
+description: Academic radiologist with an interest in radiomics and machine learning research.
 url: https://rcuocolo.github.io/
 author: Renato Cuocolo
 simple_search: https://www.google.com/search

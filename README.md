@@ -1,4 +1,7 @@
-MD, PhD, Research Fellow at the Department of Clinical Medicine and Surgery of the University of Naples "Federico II".
+## Qualifications
+
+- MD, PhD
+- Research Fellow at the Department of Clinical Medicine and Surgery of the University of Naples "Federico II"
 
 ## Short Bio
 

@@ -1,3 +1,7 @@
 theme: jekyll-theme-slate
 title: Renato Cuocolo, MD, PhD
-description: Short bio, research interests/highlights, github repositories, social network and online profiles
+subtitle: Short bio, research interests/highlights, github repositories, social network and online profiles
+url: https://rcuocolo.github.io/
+author: Renato Cuocolo
+simple_search: https://www.google.com/search
+#description:

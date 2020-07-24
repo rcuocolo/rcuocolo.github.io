@@ -11,7 +11,8 @@ Medical image analysis using machine learning and radiomics. Cancer imaging, wit
 ## Repositories
 
 - PROSTATEx lesion masks: https://github.com/rcuocolo/PROSTATEx_masks  
--- Results of a quality check on the PROSTATEx public prostate cancer MRI database. The repository contains high-quality lesion masks annotated by expert radiologists in consensus. Its aim is to improve the quality of the dataset and of research conducted on it and provide a template for similar efforts in other public medical imaging datasets.
+
+Results of a quality check on the PROSTATEx public prostate cancer MRI database. The repository contains high-quality lesion masks annotated by expert radiologists in consensus. Its aim is to improve the quality of the dataset and of research conducted on it and provide a template for similar efforts in other public medical imaging datasets.
 
 ## Select Publications
 

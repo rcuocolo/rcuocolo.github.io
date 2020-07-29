@@ -9,7 +9,7 @@ Renato Cuocolo obtained his medical degree from the University of Campania “Lu
 
 ## Research Interests
 
-Medical image analysis using machine learning and radiomics. Cancer imaging, with a focus on prostate MRI and breast cancer. Systematic reviews and meta-analyses.
+Medical image analysis using machine learning and radiomics. Cancer imaging, with a focus on prostate MRI and breast cancer. Muscoloskeletal imaging and neuroradiology. Systematic reviews and meta-analyses.
 
 ## Repositories
 

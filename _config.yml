@@ -1,4 +1,6 @@
 theme: jekyll-theme-slate
+plugins:
+  - jekyll-seo-tag
 title: Renato Cuocolo
 name: Renato Cuocolo
 email: renato.cuocolo@unina.it
@@ -6,5 +8,3 @@ subtitle: Short bio, research interests/highlights, github repositories, social 
 description: Academic radiologist with an interest in radiomics and machine learning research.
 url: https://rcuocolo.github.io/
 author: Renato Cuocolo
-plugins:
-  - jekyll-seo-tag

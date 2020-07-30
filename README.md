@@ -1,6 +1,7 @@
 ## Qualifications
 
 - MD
+- Board-certified radiologist
 - PhD
 - Research Fellow at the Department of Clinical Medicine and Surgery of the University of Naples "Federico II"
 
@@ -15,6 +16,12 @@ Renato Cuocolo obtained his medical degree from the University of Campania “Lu
 - Muscoloskeletal imaging
 - Neuroradiology
 - Systematic reviews and meta-analyses
+
+## Coding
+
+- Python
+- Bash
+- R
 
 ## Repositories
 

@@ -6,5 +6,6 @@ subtitle: Short bio, research interests/highlights, github repositories, social 
 description: Academic radiologist with an interest in radiomics and machine learning research.
 url: https://rcuocolo.github.io/
 author: Renato Cuocolo
-simple_search: https://www.google.com/search
+plugins:
+  - jekyll-seo-tag
 #description:

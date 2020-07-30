@@ -1,6 +1,7 @@
 ## Qualifications
 
-- MD, PhD
+- MD
+- PhD
 - Research Fellow at the Department of Clinical Medicine and Surgery of the University of Naples "Federico II"
 
 ## Short Bio
@@ -34,7 +35,7 @@ Results of a quality check on the PROSTATEx public prostate cancer MRI database.
 
 6. Imbriaco M, Cuocolo R (2018). Does Texture Analysis of MR Images of Breast Tumors Help Predict Response to Treatment? Radiology 286:421–423. https://doi.org/10.1148/radiol.2017172454 [Link](https://doi.org/10.1148/radiol.2017172454)
 
-## SoMe and other profile links
+## Social media and other profile links
 
 - [Twitter](https://twitter.com/renatocuocolo)
 - [ResearchGate](https://www.researchgate.net/profile/Renato_Cuocolo)

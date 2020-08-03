@@ -31,7 +31,6 @@ Results of a quality check on the PROSTATEx public prostate cancer MRI database.
 ## Select Publications
 
 1. Cuocolo R, Cipullo MB, Stanzione A, et al (2020). Machine learning for the identification of clinically significant prostate cancer on MRI: a meta-analysis. Eur Radiol. https://doi.org/10.1007/s00330-020-07027-w [Link](https://doi.org/10.1007/s00330-020-07027-w)
-https://api.elsevier.com/content/abstract/citation-count?pubmed_id=32607629&apiKey=612a66051f3f0040a3c6f98200473081
 
 2. Stanzione A, Gambardella M, Cuocolo R, et al (2020). Prostate MRI radiomics: A systematic review and radiomic quality score assessment. Eur J Radiol 129:109095. https://doi.org/10.1016/j.ejrad.2020.109095 [Link](https://doi.org/10.1016/j.ejrad.2020.109095)
 

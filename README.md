@@ -3,7 +3,7 @@
 - MD
 - Board-certified radiologist
 - PhD
-- Research Fellow at the Department of Clinical Medicine and Surgery of the University of Naples "Federico II"
+- Research Fellow at the [Department of Clinical Medicine and Surgery](http://demi.unina.it/en_GB/-/768586-dipartimento-di-medicina-clinica-e-chirurgia;jsessionid=5B79DA0C7E7BE2A280B0C2A57F6B4622.unina_dip4) of the [University of Naples "Federico II"](www.unina.it)
 
 ## Short Bio
 

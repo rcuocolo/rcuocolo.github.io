@@ -1,13 +1,13 @@
+## Bio
+
+Renato Cuocolo obtained his medical degree from the University of Campania “Luigi Vanvitelli” in 2011, completed his residency in radiology, at the University of Naples “Federico II”, in 2017, and his PhD in Biomorphological and Surgical Sciences at the Department of Advanced Biomedical Sciences, University of Naples “Federico II”, in 2020. He is currently a research fellow at the Department of Clinical Medicine and Surgery, University of Naples “Federico II”. Active member of the Italian College of Musculoskeletal Radiology. Member of the Augmented Reality for Health Monitoring Laboratory (ARHeMLab) of the Department of Electrical Engineering and Information Technology, University of Naples "Federico II". Member of the European Network for Assessment of Imaging in Medicine (EuroAIM), a joint initiative of the European Institute for Biomedical Imaging Research (EIBIR). His research interests include musculoskeletal radiology, genitourinary radiology, radiomics and machine learning applications in medical imaging. He is an experienced reviewer, was awarded the Reviewer of the Year 2019 prize from the “European Journal of Radiology” and serves as a member of the “Imaging Informatics and Artificial Intelligence” scientific editorial board for “European Radiology”.
+
 ## Qualifications
 
 - MD
 - Board-certified radiologist
 - PhD
 - Research Fellow at the [Department of Clinical Medicine and Surgery](http://demi.unina.it/en_GB/-/768586-dipartimento-di-medicina-clinica-e-chirurgia;jsessionid=5B79DA0C7E7BE2A280B0C2A57F6B4622.unina_dip4) of the [University of Naples "Federico II"](www.unina.it)
-
-## Short Bio
-
-Renato Cuocolo obtained his medical degree from the University of Campania “Luigi Vanvitelli” in 2011, completed his residency in radiology, at the University of Naples “Federico II”, in 2017, and his PhD in Biomorphological and Surgical Sciences at the Department of Advanced Biomedical Sciences, University of Naples “Federico II”, in 2020. He is currently a research fellow at the Department of Clinical Medicine and Surgery, University of Naples “Federico II”. Active member of the Italian College of Musculoskeletal Radiology. Member of the Augmented Reality for Health Monitoring Laboratory (ARHeMLab) of the Department of Electrical Engineering and Information Technology, University of Naples "Federico II". Member of the European Network for Assessment of Imaging in Medicine (EuroAIM), a joint initiative of the European Institute for Biomedical Imaging Research (EIBIR). His research interests include musculoskeletal radiology, genitourinary radiology, radiomics and machine learning applications in medical imaging. He is an experienced reviewer, was awarded the Reviewer of the Year 2019 prize from the “European Journal of Radiology” and serves as a member of the “Imaging Informatics and Artificial Intelligence” scientific editorial board for “European Radiology”.
 
 ## Research Interests
 

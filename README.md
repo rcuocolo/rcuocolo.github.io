@@ -48,7 +48,6 @@ Results of a quality check on the PROSTATEx public prostate cancer MRI database.
 - [ResearchGate](https://www.researchgate.net/profile/Renato_Cuocolo)
 - [LinkedIn](https://www.linkedin.com/in/renato-cuocolo/)
 - [ORCiD](https://orcid.org/0000-0002-1452-1574)
-- [Mendeley](https://www.mendeley.com/profiles/renato-cuocolo/)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55253274100)
 - [Publons](https://publons.com/researcher/1435108/renato-cuocolo/)
 - [Loop](https://loop.frontiersin.org/people/704033/overview)

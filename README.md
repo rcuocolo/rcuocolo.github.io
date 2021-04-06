@@ -7,7 +7,7 @@ Renato Cuocolo obtained his medical degree from the University of Campania “Lu
 - MD
 - Board-certified radiologist
 - PhD
-- [Research Fellow](https://www.docenti.unina.it/renato.cuocolo) at the [Department of Clinical Medicine and Surgery](http://demi.unina.it/-/768586-dipartimento-di-medicina-clinica-e-chirurgia;jsessionid=5B79DA0C7E7BE2A280B0C2A57F6B4622.unina_dip4) of the [University of Naples "Federico II"](www.unina.it)
+- [Research Fellow](https://www.docenti.unina.it/renato.cuocolo) at the [Department of Clinical Medicine and Surgery](http://demi.unina.it/-/768586-dipartimento-di-medicina-clinica-e-chirurgia;jsessionid=5B79DA0C7E7BE2A280B0C2A57F6B4622.unina_dip4) of the [University of Naples "Federico II"](http://www.unina.it)
 
 ## Research Interests
 

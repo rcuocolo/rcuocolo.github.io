@@ -36,16 +36,16 @@ MRI radiomics and machine learning model to predict risk group in endometrial ca
 
 ## Select Publications
 
-1. Gitto S, Cuocolo R, Annovazzi A, et al (2021) CT radiomics-based machine learning classification of atypical cartilaginous tumours and appendicular chondrosarcomas. EBioMedicine. https://doi.org/10.1016/j.ebiom.2021.103407
-2. Romeo V, Cuocolo R, Apolito R, et al (2021) Clinical value of radiomics and machine learning in breast ultrasound: a multicenter study for differential diagnosis of benign and malignant lesions. Eur Radiol. https://doi.org/10.1007/s00330-021-08009-2
-3. Cuocolo R, Stanzione A, Faletti R, et al (2021) MRI index lesion radiomics and machine learning for detection of extraprostatic extension of disease: a multicenter study. Eur Radiol. https://doi.org/10.1007/s00330-021-07856-3
-4. Cuocolo R, Comelli A, Stefano A, et al (2021) Deep Learning Whole‐Gland and Zonal Prostate Segmentation on a Public MRI Dataset. J Magn Reson Imaging. https://doi.org/10.1002/jmri.27585
-5. Cuocolo R, Cipullo MB, Stanzione A, et al (2020). Machine learning for the identification of clinically significant prostate cancer on MRI: a meta-analysis. Eur Radiol. https://doi.org/10.1007/s00330-020-07027-w
-6. Stanzione A, Gambardella M, Cuocolo R, et al (2020). Prostate MRI radiomics: A systematic review and radiomic quality score assessment. Eur J Radiol. https://doi.org/10.1016/j.ejrad.2020.109095
-7. Cuocolo R, Caruso M, Perillo T, et al (2020). Machine Learning in Oncology: A Clinical Appraisal. Cancer Lett. https://doi.org/10.1016/j.canlet.2020.03.032
-8. Cuocolo R, Ponsiglione A, Dell’Aversana S, et al (2020). The cardiac conundrum: a systematic review and bibliometric analysis of authorship in cardiac magnetic resonance imaging studies. Insights Imaging. https://doi.org/10.1186/s13244-020-00850-1
-9. Cuocolo R, Caruso M, Perillo T, et al (2020) Machine Learning in Oncology: A Clinical Appraisal. Cancer Lett. https://doi.org/10.1016/j.canlet.2020.03.032
-10. Imbriaco M, Cuocolo R (2018). Does Texture Analysis of MR Images of Breast Tumors Help Predict Response to Treatment? Radiology. https://doi.org/10.1148/radiol.2017172454
+1. Gitto S, Cuocolo R, Annovazzi A, et al (2021) CT radiomics-based machine learning classification of atypical cartilaginous tumours and appendicular chondrosarcomas. EBioMedicine. [https://doi.org/10.1016/j.ebiom.2021.103407](https://doi.org/10.1016/j.ebiom.2021.103407)
+2. Romeo V, Cuocolo R, Apolito R, et al (2021) Clinical value of radiomics and machine learning in breast ultrasound: a multicenter study for differential diagnosis of benign and malignant lesions. Eur Radiol. [https://doi.org/10.1007/s00330-021-08009-2](https://doi.org/10.1007/s00330-021-08009-2)
+3. Cuocolo R, Stanzione A, Faletti R, et al (2021) MRI index lesion radiomics and machine learning for detection of extraprostatic extension of disease: a multicenter study. Eur Radiol. [https://doi.org/10.1007/s00330-021-07856-3](https://doi.org/10.1007/s00330-021-07856-3)
+4. Cuocolo R, Comelli A, Stefano A, et al (2021) Deep Learning Whole‐Gland and Zonal Prostate Segmentation on a Public MRI Dataset. J Magn Reson Imaging. [https://doi.org/10.1002/jmri.27585](https://doi.org/10.1002/jmri.27585)
+5. Cuocolo R, Cipullo MB, Stanzione A, et al (2020). Machine learning for the identification of clinically significant prostate cancer on MRI: a meta-analysis. Eur Radiol. [https://doi.org/10.1007/s00330-020-07027-w](https://doi.org/10.1007/s00330-020-07027-w)
+6. Stanzione A, Gambardella M, Cuocolo R, et al (2020). Prostate MRI radiomics: A systematic review and radiomic quality score assessment. Eur J Radiol. [https://doi.org/10.1016/j.ejrad.2020.109095](https://doi.org/10.1016/j.ejrad.2020.109095)
+7. Cuocolo R, Caruso M, Perillo T, et al (2020). Machine Learning in Oncology: A Clinical Appraisal. Cancer Lett. [https://doi.org/10.1016/j.canlet.2020.03.032](https://doi.org/10.1016/j.canlet.2020.03.032)
+8. Cuocolo R, Ponsiglione A, Dell’Aversana S, et al (2020). The cardiac conundrum: a systematic review and bibliometric analysis of authorship in cardiac magnetic resonance imaging studies. Insights Imaging. [https://doi.org/10.1186/s13244-020-00850-1](https://doi.org/10.1186/s13244-020-00850-1)
+9. Cuocolo R, Caruso M, Perillo T, et al (2020) Machine Learning in Oncology: A Clinical Appraisal. Cancer Lett. [https://doi.org/10.1016/j.canlet.2020.03.032](https://doi.org/10.1016/j.canlet.2020.03.032)
+10. Imbriaco M, Cuocolo R (2018). Does Texture Analysis of MR Images of Breast Tumors Help Predict Response to Treatment? Radiology. [https://doi.org/10.1148/radiol.2017172454](https://doi.org/10.1148/radiol.2017172454)
 
 ## Social media and other profile links
 

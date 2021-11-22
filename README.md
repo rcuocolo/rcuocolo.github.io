@@ -13,7 +13,7 @@ Renato Cuocolo obtained his medical degree from the University of Campania “Lu
 
 - Medical image analysis using machine learning and radiomics
 - Cancer imaging, with a focus on prostate MRI
-- Muscoloskeletal imaging
+- Musculoskeletal imaging
 - Neuroradiology
 - Systematic reviews and meta-analyses
 

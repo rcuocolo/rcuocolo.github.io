@@ -7,7 +7,7 @@ Renato Cuocolo obtained his medical degree from the University of Campania “Lu
 - MD
 - Board-certified radiologist
 - PhD
-- [Associate Professor](https://rubrica.unisa.it/persone?matricola=058567) at the [Department of Medicine, Surgery and Dentistry "Scuola Medica Salernitana"](https://www.dipmed.unisa.it/) of the [University of Salerno](https://www.unisa.it/)
+- [Associate Professor](https://docenti.unisa.it/058567/home) at the [Department of Medicine, Surgery and Dentistry "Scuola Medica Salernitana"](https://www.dipmed.unisa.it/) of the [University of Salerno](https://www.unisa.it/)
 
 ## Research Interests
 

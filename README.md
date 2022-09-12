@@ -54,5 +54,5 @@ MRI radiomics and machine learning model to predict risk group in endometrial ca
 - [LinkedIn](https://www.linkedin.com/in/renato-cuocolo/)
 - [ORCiD](https://orcid.org/0000-0002-1452-1574)
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=55253274100)
-- [Publons](https://publons.com/researcher/1435108/renato-cuocolo/)
+- [Web of Science](https://www.webofscience.com/wos/author/rid/G-3147-2018)
 - [Loop](https://loop.frontiersin.org/people/704033/overview)

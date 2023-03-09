@@ -36,7 +36,7 @@ MRI radiomics and machine learning model to predict risk group in endometrial ca
 
 ## Select Publications
 
-1. Spadarella G, Stanzione A, Akinci D’Antonoli T, et al (2023) Systematic review of the radiomics quality score applications: an EuSoMII Radiomics Auditing Group Initiative. Eur Radiol. [https://doi.org/10.1007/s00330-022-09187-3] (https://doi.org/10.1007/s00330-022-09187-3)
+1. Spadarella G, Stanzione A, Akinci D’Antonoli T, et al (2023) Systematic review of the radiomics quality score applications: an EuSoMII Radiomics Auditing Group Initiative. Eur Radiol. [https://doi.org/10.1007/s00330-022-09187-3] https://doi.org/10.1007/s00330-022-09187-3
 2. Gitto S, Cuocolo R, van Langevelde K, et al (2022) MRI radiomics-based machine learning classification of atypical cartilaginous tumour and grade II chondrosarcoma of long bones. EBioMedicine. [https://doi.org/10.1016/j.ebiom.2021.103757](https://doi.org/10.1016/j.ebiom.2021.103757)
 3. Romeo V, Cuocolo R, Apolito R, et al (2021) Clinical value of radiomics and machine learning in breast ultrasound: a multicenter study for differential diagnosis of benign and malignant lesions. Eur Radiol. [https://doi.org/10.1007/s00330-021-08009-2](https://doi.org/10.1007/s00330-021-08009-2)
 4. Cuocolo R, Stanzione A, Faletti R, et al (2021) MRI index lesion radiomics and machine learning for detection of extraprostatic extension of disease: a multicenter study. Eur Radiol. [https://doi.org/10.1007/s00330-021-07856-3](https://doi.org/10.1007/s00330-021-07856-3)
